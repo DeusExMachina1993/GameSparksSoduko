@@ -8,4 +8,3 @@
 var newGold=Spark.getData().gold;
 Spark.getPlayer().credit("gold",newGold, "test");
 Spark.getPlayer().credit2(newGold);
-Spark.setScriptData("data","testing");
