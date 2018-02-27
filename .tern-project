@@ -1,0 +1,13 @@
+{
+  "ecmaVersion": 6,
+  "libs": [
+    "autocomplete.gs.json"
+  ],
+  "loadEagerly": [],
+  "dontLoad": [
+    "node_modules/**"
+  ],
+  "plugins": {
+    "doc_comment": true
+  }
+}
